@@ -1,1 +1,1 @@
-# UTS
+# UTS Kecerdasan Komputer
